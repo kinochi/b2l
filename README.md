@@ -4,6 +4,9 @@
 
 ## Prerequisites
 This project is built with `cmake`
+```sh
+$ sudo apt-get install cmake
+```
 ## Installing
 Navigate to the Folder
 
@@ -14,7 +17,11 @@ $ cmake ..
 $ make
 ```
 
-You will see `bin` directory generated in main directory with the executable 
+You will see `bin` directory generated in main directory with the executable `main` 
+To execute go to bin
+```sh
+./main
+```
 
 ## License
 
