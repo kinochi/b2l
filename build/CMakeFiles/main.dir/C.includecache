@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kinochi/bst_to_linked/include/bst.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/kinochi/bst_to_linked/include/bst_to_list.h
+bst.h
+/home/kinochi/bst_to_linked/include/bst.h
+list.h
+/home/kinochi/bst_to_linked/include/list.h
+
+/home/kinochi/bst_to_linked/include/list.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/kinochi/bst_to_linked/main.c
+include/bst.h
+/home/kinochi/bst_to_linked/include/bst.h
+include/list.h
+/home/kinochi/bst_to_linked/include/list.h
+include/bst_to_list.h
+/home/kinochi/bst_to_linked/include/bst_to_list.h
+
+/home/kinochi/bst_to_linked/src/bst.c
+../include/bst.h
+/home/kinochi/bst_to_linked/include/bst.h
+
+/home/kinochi/bst_to_linked/src/bst_to_list.c
+../include/bst_to_list.h
+/home/kinochi/bst_to_linked/include/bst_to_list.h
+
+/home/kinochi/bst_to_linked/src/list.c
+../include/list.h
+/home/kinochi/bst_to_linked/include/list.h
+

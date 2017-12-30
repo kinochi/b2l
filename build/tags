@@ -1,0 +1,140 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/157918c6/
+$(VERBOSE).SILENT	Makefile	/^$(VERBOSE).SILENT:$/;"	t
+ARCHITECTURE_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/kinochi\/bst_to_linked\/build$/;"	m
+CMAKE_COMMAND	Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	Makefile	/^CMAKE_SOURCE_DIR = \/home\/kinochi\/bst_to_linked$/;"	m
+COMPILER_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+C_DIALECT	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT /;"	d	file:
+C_DIALECT	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT$/;"	d	file:
+C_DIALECT	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define C_DIALECT /;"	d	file:
+DEC	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+EQUALS	Makefile	/^EQUALS = =$/;"	m
+HEX	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+ID_VOID_MAIN	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+RM	Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+STRINGIFY	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+SUFFIXES	Makefile	/^SUFFIXES =$/;"	m
+all	Makefile	/^all: cmake_check_build_system$/;"	t
+clean	Makefile	/^clean:$/;"	t
+clean/fast	Makefile	/^clean\/fast: clean$/;"	t
+cmake_check_build_system	Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	Makefile	/^cmake_force:$/;"	t
+const	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+default_target	Makefile	/^default_target: all$/;"	t
+depend	Makefile	/^depend:$/;"	t
+edit_cache	Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+features	CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v	typeref:typename:const char[]
+features	CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v	typeref:typename:const char[]
+help	Makefile	/^help:$/;"	t
+info_arch	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_dialect_default	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	typeref:typename:const char *
+info_language_dialect_default	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_platform	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+main	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	typeref:typename:int
+main	CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	typeref:typename:int
+main	Makefile	/^main: cmake_check_build_system$/;"	t
+main.c.i	Makefile	/^main.c.i:$/;"	t
+main.c.o	Makefile	/^main.c.o:$/;"	t
+main.c.s	Makefile	/^main.c.s:$/;"	t
+main.i	Makefile	/^main.i: main.c.i$/;"	t
+main.o	Makefile	/^main.o: main.c.o$/;"	t
+main.s	Makefile	/^main.s: main.c.s$/;"	t
+main/fast	Makefile	/^main\/fast:$/;"	t
+preinstall	Makefile	/^preinstall: all$/;"	t
+preinstall/fast	Makefile	/^preinstall\/fast:$/;"	t
+qnxnto	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+rebuild_cache	Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+src/bst.c.i	Makefile	/^src\/bst.c.i:$/;"	t
+src/bst.c.o	Makefile	/^src\/bst.c.o:$/;"	t
+src/bst.c.s	Makefile	/^src\/bst.c.s:$/;"	t
+src/bst.i	Makefile	/^src\/bst.i: src\/bst.c.i$/;"	t
+src/bst.o	Makefile	/^src\/bst.o: src\/bst.c.o$/;"	t
+src/bst.s	Makefile	/^src\/bst.s: src\/bst.c.s$/;"	t
+src/bst_to_list.c.i	Makefile	/^src\/bst_to_list.c.i:$/;"	t
+src/bst_to_list.c.o	Makefile	/^src\/bst_to_list.c.o:$/;"	t
+src/bst_to_list.c.s	Makefile	/^src\/bst_to_list.c.s:$/;"	t
+src/bst_to_list.i	Makefile	/^src\/bst_to_list.i: src\/bst_to_list.c.i$/;"	t
+src/bst_to_list.o	Makefile	/^src\/bst_to_list.o: src\/bst_to_list.c.o$/;"	t
+src/bst_to_list.s	Makefile	/^src\/bst_to_list.s: src\/bst_to_list.c.s$/;"	t
+src/list.c.i	Makefile	/^src\/list.c.i:$/;"	t
+src/list.c.o	Makefile	/^src\/list.c.o:$/;"	t
+src/list.c.s	Makefile	/^src\/list.c.s:$/;"	t
+src/list.i	Makefile	/^src\/list.i: src\/list.c.i$/;"	t
+src/list.o	Makefile	/^src\/list.o: src\/list.c.o$/;"	t
+src/list.s	Makefile	/^src\/list.s: src\/list.c.s$/;"	t
+volatile	CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
