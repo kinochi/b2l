@@ -14,7 +14,7 @@ $ cmake ..
 $ make
 ```
 
-You will see 'bin' directory generated in main directory with the executable 
+You will see `bin` directory generated in main directory with the executable 
 
 ## License
 
